@@ -1,0 +1,9 @@
+.elementor-7968 .elementor-element.elementor-element-372b9835:not(.elementor-motion-effects-element-type-background), .elementor-7968 .elementor-element.elementor-element-372b9835 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
+.elementor-7968 .elementor-element.elementor-element-372b9835 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 0px 20px 20px 20px;}
+.elementor-7968 .elementor-element.elementor-element-372b9835 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-7968 .elementor-element.elementor-element-6f4d39ff:not(.elementor-motion-effects-element-type-background) > .elementor-element-populated, .elementor-7968 .elementor-element.elementor-element-6f4d39ff > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
+.elementor-7968 .elementor-element.elementor-element-6f4d39ff > .elementor-element-populated {box-shadow: 0px 0px 10px 0px rgba(0,0,0,.5);transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 20px 30px 20px 30px;}
+.elementor-7968 .elementor-element.elementor-element-6f4d39ff > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+@media (max-width:1023px) {.elementor-7968 .elementor-element.elementor-element-6f4d39ff > .elementor-element-populated {padding: 15px 15px 15px 15px;}}
+@media (max-width:767px) {.elementor-7968 .elementor-element.elementor-element-372b9835 {padding: 0px 8px 0px 8px;}
+	.elementor-7968 .elementor-element.elementor-element-6f4d39ff > .elementor-element-populated {padding: 16px 16px 16px 16px;}}

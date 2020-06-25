@@ -1,0 +1,6 @@
+.elementor-15 .elementor-element.elementor-element-2570dbf6 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-15 .elementor-element.elementor-element-2570dbf6 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-15 .elementor-element.elementor-element-3f9d8b5a:not(.elementor-motion-effects-element-type-background) > .elementor-element-populated, .elementor-15 .elementor-element.elementor-element-3f9d8b5a > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
+.elementor-15 .elementor-element.elementor-element-3f9d8b5a > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 40px 20px 20px 40px;}
+.elementor-15 .elementor-element.elementor-element-3f9d8b5a > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+body.elementor-page-15:not(.elementor-motion-effects-element-type-background), body.elementor-page-15 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}

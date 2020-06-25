@@ -1,0 +1,4 @@
+.elementor-22 .elementor-element.elementor-element-2c124df3:not(.elementor-motion-effects-element-type-background), .elementor-22 .elementor-element.elementor-element-2c124df3 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
+.elementor-22 .elementor-element.elementor-element-2c124df3 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-22 .elementor-element.elementor-element-2c124df3 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-22 .elementor-element.elementor-element-12701017 > .elementor-element-populated {padding: 40px 20px 20px 40px;}
